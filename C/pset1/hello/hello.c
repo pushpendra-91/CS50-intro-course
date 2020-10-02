@@ -5,7 +5,7 @@
 int main(void)
 {
     //get_string allows for user input that gets saved in the var name
-    string name = get_string("What is your name?\n");
+    string name = get_string("Please,tell your name?\n");
     //printf just outputs a message to the terminal
     printf("hello, %s\n", name);
 }
