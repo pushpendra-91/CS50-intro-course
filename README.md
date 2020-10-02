@@ -4,6 +4,7 @@ You can find the materials for the course <a href='https://cs50.harvard.edu/x/20
 Hope this is helpful to other students, if you don't mind please leave a star!
 Every exercise in this repository scored 100% on submission.
 
+Probably, this will help you.
 ## Table Of Contents
 
 - [Problem Set 1: C](/C/pset1) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Assignments 1</a>
